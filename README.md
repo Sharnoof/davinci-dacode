@@ -20,7 +20,7 @@ By toggling bits (`0` and `1`) across the four foundational binary place values 
 ---
 
 ## 🧠 Computer Science Concepts Applied
-* **Binary Representation:** Understanding positional notation in Base-2 ($2^3, 2^2, 2^1, 2^0$).
+* **Binary Representation:** Understanding positional notation in Base-2 (2^3, 2^2, 2^1, 2^0).
 * **Variables & State Management:** Tracking bit values (`0` or `1`), player score, and target numbers.
 * **Conditionals (`If / Else`):** Validating user input against the target binary/decimal value.
 * **Loops & Events:** Handling interactive button clicks, animations, and level progression.
