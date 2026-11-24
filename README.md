@@ -7,7 +7,8 @@ This project was designed and developed as part of **Harvard University's CS50: 
 ---
 
 ## 🎮 Play the Game
-* **Live Demo on Scratch:** [Insert your Scratch project link here]
+* **Live Demo on Scratch:** ![DaVinci Binary Decode Gameplay](gameplay.png)
+
 * **Source File:** Download `davinci-dacode.sb3` from this repository and open it via [Scratch Online](https://mit.edu).
 
 ---
