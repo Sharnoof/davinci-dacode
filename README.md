@@ -1,4 +1,4 @@
-# DaVinci DaCode 🔐
+# DaVinci_Binary_DaCode 🔐
 
 An interactive educational puzzle game built with **Scratch** that introduces players to the **Binary Number System (Base-2)** using powers of two (`8, 4, 2, 1`). 
 
