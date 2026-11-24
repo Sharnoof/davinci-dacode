@@ -5,8 +5,9 @@ An interactive educational puzzle game built with **Scratch** that introduces pl
 This project was designed and developed as part of **Harvard University's CS50: Introduction to Computer Science (Week 0)**.
 
 ---
+
 ## 🎮 How to Run the Game
-* **Play Online (Instant Demo):** [Click here to play DaVinci Binary Decode in your browser](https://turbowarp.org)
+* **Play Online (Instant Demo):** [Click here to play DaVinci Binary Decode in your browser](https://github.io)
 * **Source File:** Download `DaVinci_Binary_Decode.sb3` from this repository and open it via [Scratch Online](https://mit.edu).
 
 ---
